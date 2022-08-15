@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Money Manager](https://github.com/harshadok)
 
-- 🌱 I’m currently learning **Node js ,Typescript ,MongoDb**
+- 🌱 I’m currently learning **Data Structure ,DBMS ,Java**
 
 - 👨‍💻 All of my projects are available at [PersonalWebsite](https://github.com/harshadok)
 
