@@ -15,7 +15,7 @@
 <p align="left">
 
 
-<a href="linkedin.com/in/harshad-ok-8585aa184" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> alt="Harshad" height="30" width="40" /></a>
+<a href="linkedin.com/in/harshad-ok-8585aa184" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 </p>
 
