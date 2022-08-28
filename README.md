@@ -15,8 +15,8 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/harshad-ok-8585aa184" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  <a href="https://linkedin.com/in/harshad-ok-8585aa184" target= "_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> 
+<a href="https://linkedin.com/in/harshad-ok-8585aa184" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/harshad-ok-8585aa184" target= "_blank"><img src="https://twitter.com/HarshadOdakkal?t=XkgDQCwmLdGMPhgZwYSCVQ&s=08"/> 
 
 
 </p>
