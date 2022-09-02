@@ -1,8 +1,8 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
 <h5 >HELO WORLD </h5>
-<h1 > It's Me HARSHAD </h1>
-<h3 align="center">A passionate Flutter developer </h3>
+<h1 > It's Me Harshad </h1>
+<h3 >self taught Flutter developer </h3>
 
 - 🔭 I’m currently working on [Money Manager](https://github.com/harshadok)
 
