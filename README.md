@@ -4,13 +4,13 @@
 <h1 > It's Me Harshad </h1>
 <h3 >Self Taught Flutter Developer </h3>
 
-- 🔭 I’m currently working on [Money Manager](https://github.com/harshadok)
+-  I’m currently working on [Money Manager](https://github.com/harshadok)
 
-- 🌱 I’m currently learning ** Flutter , Dart , API ,Data Structure ,DBMS **
+-  I’m currently learning ** Flutter , Dart , API ,Data Structure ,DBMS **
 
-- 👨‍💻 All of my projects are available at [PersonalWebsite](https://github.com/harshadok)
+-  All of my projects are available at [PersonalWebsite](https://github.com/harshadok)
 
-- 📫 How to reach me **mail.harshadodakkal@gmail.com**
+-  How to reach me **mail.harshadodakkal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
