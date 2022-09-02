@@ -1,11 +1,12 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
+<h1 align="center">HELO WORLD </h1>
 <h1 align="center"> It's Me HARSHAD </h1>
 <h3 align="center">A passionate Flutter developer </h3>
 
 - 🔭 I’m currently working on [Money Manager](https://github.com/harshadok)
 
-- 🌱 I’m currently learning **Data Structure ,DBMS ,Java**
+- 🌱 I’m currently learning ** Flutter , Dart , API ,Data Structure ,DBMS **
 
 - 👨‍💻 All of my projects are available at [PersonalWebsite](https://github.com/harshadok)
 
