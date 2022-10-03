@@ -6,7 +6,7 @@
 
 -  I’m currently working on [Money Manager](https://github.com/harshadok)
 
--  I’m currently learning ** Flutter , Dart , API ,Data Structure ,DBMS **
+-  I’m currently learning ** Mobail devolpment using flutter**
 
 -  All of my projects are available at [PersonalWebsite](https://github.com/harshadok)
 
