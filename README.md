@@ -4,7 +4,7 @@
 <h1 > It's Me Harshad </h1>
 <h3 >Self Taught Flutter Developer </h3>
 
--  I’m currently working on [Near Turf ](https://github.com/harshadok)
+-  I’m currently working on [Near Turf ]([https://github.com/harshadok](https://github.com/harshadok/Near-Turf))
 
 -  I’m currently learning ** Mobail devolpment using flutter**
 
